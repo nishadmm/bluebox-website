@@ -1146,15 +1146,15 @@ Services Style
 }
 
 .our-services .first-bar .filled-bar {
-  width: 41%;
+  width: 90%;
 }
 
 .our-services .second-bar .filled-bar {
-  width: 53%;
+  width: 95%;
 }
 
 .our-services .third-bar .filled-bar {
-  width: 60%;
+  width: 100%;
 }
 
 /* 
